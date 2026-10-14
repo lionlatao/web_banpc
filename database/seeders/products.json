@@ -1,0 +1,266 @@
+[
+  {
+    "slot": "cpu",
+    "name": "LionLab C4 5600",
+    "price": 2490000,
+    "specs": {
+      "socket": "AM4",
+      "power": "65",
+      "detail": "CPU mẫu phục vụ đồ án"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "cpu",
+    "name": "LionLab C5 7600",
+    "price": 4490000,
+    "specs": {
+      "socket": "AM5",
+      "power": "65",
+      "detail": "CPU mẫu phục vụ đồ án"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "cpu",
+    "name": "LionLab I5 12400",
+    "price": 3190000,
+    "specs": {
+      "socket": "LGA1700",
+      "power": "65",
+      "detail": "CPU mẫu phục vụ đồ án"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "mainboard",
+    "name": "LionBoard B550 M",
+    "price": 1890000,
+    "specs": {
+      "socket": "AM4",
+      "ram_type": "DDR4",
+      "form_factor": "mATX"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "mainboard",
+    "name": "LionBoard B650 A",
+    "price": 3490000,
+    "specs": {
+      "socket": "AM5",
+      "ram_type": "DDR5",
+      "form_factor": "ATX"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "mainboard",
+    "name": "LionBoard B660 M",
+    "price": 2490000,
+    "specs": {
+      "socket": "LGA1700",
+      "ram_type": "DDR4",
+      "form_factor": "mATX"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "ram",
+    "name": "LionMemory D4 16",
+    "price": 790000,
+    "specs": {
+      "ram_type": "DDR4",
+      "capacity": "16 GB"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "ram",
+    "name": "LionMemory D4 32",
+    "price": 1390000,
+    "specs": {
+      "ram_type": "DDR4",
+      "capacity": "32 GB"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "ram",
+    "name": "LionMemory D5 32",
+    "price": 2490000,
+    "specs": {
+      "ram_type": "DDR5",
+      "capacity": "32 GB"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "gpu",
+    "name": "LionGraphics G60 8GB",
+    "price": 6490000,
+    "specs": {
+      "power": "115",
+      "detail": "Card đồ họa mẫu"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "gpu",
+    "name": "LionGraphics G70 12GB",
+    "price": 11990000,
+    "specs": {
+      "power": "200",
+      "detail": "Card đồ họa mẫu"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "gpu",
+    "name": "LionGraphics G80 16GB",
+    "price": 19990000,
+    "specs": {
+      "power": "320",
+      "detail": "Card đồ họa mẫu"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "ssd",
+    "name": "LionDrive NVMe 500 GB",
+    "price": 890000,
+    "specs": {
+      "capacity": "500 GB",
+      "detail": "M.2 NVMe; cần kiểm tra khe cắm thực tế"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "ssd",
+    "name": "LionDrive NVMe 1 TB",
+    "price": 1490000,
+    "specs": {
+      "capacity": "1 TB",
+      "detail": "M.2 NVMe; cần kiểm tra khe cắm thực tế"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "ssd",
+    "name": "LionDrive NVMe 2 TB",
+    "price": 2590000,
+    "specs": {
+      "capacity": "2 TB",
+      "detail": "M.2 NVMe; cần kiểm tra khe cắm thực tế"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "psu",
+    "name": "LionPower 350W",
+    "price": 590000,
+    "specs": {
+      "wattage": "350"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "psu",
+    "name": "LionPower 550W",
+    "price": 990000,
+    "specs": {
+      "wattage": "550"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "psu",
+    "name": "LionPower 750W",
+    "price": 1690000,
+    "specs": {
+      "wattage": "750"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "case",
+    "name": "LionCase Air M",
+    "price": 790000,
+    "specs": {
+      "supported_forms": "mATX,ITX"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "case",
+    "name": "LionCase Air A",
+    "price": 1190000,
+    "specs": {
+      "supported_forms": "ATX,mATX,ITX"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "case",
+    "name": "LionCase Mini I",
+    "price": 1490000,
+    "specs": {
+      "supported_forms": "ITX"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "cooler",
+    "name": "LionCool Tower 4",
+    "price": 490000,
+    "specs": {
+      "supported_sockets": "AM4,AM5,LGA1700"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "cooler",
+    "name": "LionCool Flow 240",
+    "price": 1590000,
+    "specs": {
+      "supported_sockets": "AM4,AM5,LGA1700"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "cooler",
+    "name": "LionCool Compact AM4",
+    "price": 290000,
+    "specs": {
+      "supported_sockets": "AM4"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "pc",
+    "name": "LionPC Study S",
+    "price": 8990000,
+    "specs": {
+      "detail": "Máy bộ mẫu dành cho học tập và văn phòng"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "pc",
+    "name": "LionPC Creator C",
+    "price": 16990000,
+    "specs": {
+      "detail": "Máy bộ mẫu dành cho thiết kế và lập trình"
+    },
+    "stock": 20
+  },
+  {
+    "slot": "pc",
+    "name": "LionPC Gaming G",
+    "price": 22990000,
+    "specs": {
+      "detail": "Máy bộ mẫu dành cho giải trí"
+    },
+    "stock": 20
+  }
+]

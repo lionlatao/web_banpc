@@ -1,0 +1,3 @@
+@extends('layouts.app')
+@section('title','Không tìm thấy trang | LionPC')
+@section('content')<section class="not-found"><span class="eyebrow">LionPC / 404</span><h1>Trang này không còn ở đây.</h1><p>Đường dẫn có thể đã thay đổi. Bạn có thể trở lại cửa hàng để tìm sản phẩm hoặc tiếp tục build PC.</p><div class="actions"><a class="btn primary" href="{{ route('catalog') }}">Đến cửa hàng →</a><a class="btn ghost" href="{{ route('home') }}">Về trang chủ</a></div></section>@endsection
